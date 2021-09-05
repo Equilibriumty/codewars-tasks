@@ -1,0 +1,24 @@
+{
+  "name": "codewars",
+  "version": "1.0.0",
+  "description": "",
+  "main": "1.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Equilibriumty/codewars-tasks.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Equilibriumty/codewars-tasks/issues"
+  },
+  "homepage": "https://github.com/Equilibriumty/codewars-tasks#readme",
+  "dependencies": {
+    "eslint": "^7.32.0",
+    "prettier": "^2.3.2"
+  },
+  "devDependencies": {}
+}
